@@ -1,1 +1,1 @@
-# Expense-Control
+This is my first react project. It is almost the same as the project in Maximilian react course (Udemy). It contains important Raect concepts: components, props, JSX,  useState, child to parent communication, controled components, renderind lists, rendering conditional content, styling css components (.css, inline styles and css modules). 
